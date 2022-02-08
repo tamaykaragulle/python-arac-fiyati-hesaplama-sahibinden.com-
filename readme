@@ -1,1 +1,9 @@
+Google chrome’un yüklü olması gerekiyor.
+Google chrome versiyonunun bilinmesi gerekiyor. 
 
+Google chrome versiyonu öğrenmek için:
+Sayfanın sağ üstündeki 3 noktadan,
+Yardım -> Google chrome hakkında
+
+Bu versiyona uygun chrome driverınızı indirmeniz gerekiyor.
+Çalıştırırken Chrome Driverini aynı dosyaya atın.
